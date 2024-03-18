@@ -9,3 +9,4 @@
 * Есть обработка ошибок.
 
 # Фото:
+![first photo](https://raw.githubusercontent.com/ttema4/sneaker-shop/430a51a39a46f2fe595faf75252492e928247522/img.png
