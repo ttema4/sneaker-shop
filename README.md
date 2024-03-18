@@ -11,5 +11,5 @@
 # Фото:
 ![first photo](https://raw.githubusercontent.com/ttema4/sneaker-shop/430a51a39a46f2fe595faf75252492e928247522/img.png)
 ![second photo](https://raw.githubusercontent.com/ttema4/sneaker-shop/430a51a39a46f2fe595faf75252492e928247522/img_1.png)
-![third photo](https://raw.githubusercontent.com/ttema4/sneaker-shop/430a51a39a46f2fe595faf75252492e928247522/img_2.png)
-![fourth photo](https://raw.githubusercontent.com/ttema4/sneaker-shop/430a51a39a46f2fe595faf75252492e928247522/img_3.png)
+![third photo](https://raw.githubusercontent.com/ttema4/sneaker-shop/430a51a39a46f2fe595faf75252492e928247522/img_3.png)
+![fourth photo](https://raw.githubusercontent.com/ttema4/sneaker-shop/430a51a39a46f2fe595faf75252492e928247522/img_4.png)
